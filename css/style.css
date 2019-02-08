@@ -79,7 +79,7 @@ ul li{
 }
 
 .navigation ul li a.active{
-	color:#999900;
+	color:#999999;
 }
 
 .bdr, .pdg{
@@ -88,7 +88,7 @@ ul li{
 }
 
 #slider{
-	border:2px solid #999999;
+	border:2px solid #000000;
 	border-radius:10px;
 	height:300px !important;
 	width:575px;
